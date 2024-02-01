@@ -30,3 +30,21 @@
 <p>
   Inspired by Triboulet story, I thougth about a game where a court jester must make the king laugh to avoid being killed. The Jester will have some utensils, such as, juggling balls, bombs and banana peels. He can try to defeat the king by throwing things at him, however, the best way to do it its to make him laugh, once he reaches a certain level of fun, he will receive more damage and will be easier to defeat.
 </p>
+
+<h2> Game Resume</h2>
+<p>
+  So, I'll describe everything I thought would be great for the game, the ideal, what I wanted it to be. 
+</p>
+<h2> Game Result </h2>
+
+![Make Me Laugh](https://github.com/pedroarthurob/GlobalGameJam2024.1/assets/100167092/8c137175-25ea-4eca-9fb8-4093a846ae1f)
+
+<h2> What's Lacking </h2>
+
+
+<h2> Final Considerations </h2>
+<ul>
+  <li> The result is far away from the previous idea. A lot wasn't implemented. I'll list them as issues and someday I or someone may implement those mechanics.</li>
+  <li> It's bad, but for a one man army developing his first game without following tutorials for every step, it's funny and functional enough </li>
+  <li> It works. Despite everything bad I said above, it works. Im kinda proud cause that's something I've started and finished all on my own, searching and learning some things from scratch</li>
+</ul>
