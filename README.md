@@ -33,14 +33,23 @@
 
 <h2> Game Resume</h2>
 <p>
-  So, I'll describe everything I thought would be great for the game, the ideal, what I wanted it to be. 
+  So, I'll describe everything I thought would be great for the game, the ideal, what I wanted it to be. A intial cut scene, telling Triboulet  most famous story, a introduction to the game. Than, triboulet will have to face the King and make him laugh ino order to stay alive. From his hands(at first a thought about a sack) i will randomly spawn different objects that he coul either throw at the King, or use them to make him laugh. For example, he could throw a dynamite at the King, decreasing his health bar, or he can keep it and let it explode in his hands. This way he might get damage, but will increase the Laugh-O-Meter of the King. But why increase the Laugh-O-Meter? Because reaching a certain level of fun, the King will no longer move and receive more damage for a short period of time. So what stands out from this game it's the idea of the Laug-O-Meter, where you should decide wheter throw or receive the damage expecting to make the King Laugh hard.
 </p>
 <h2> Game Result </h2>
-
+  I could only implement the most basic things, such as the King and Jester movements, the health bar, the randomness of the objects. I couldn't implement the Laugh-O-Meter and everything related to him, only his visual.
 ![Make Me Laugh](https://github.com/pedroarthurob/GlobalGameJam2024.1/assets/100167092/8c137175-25ea-4eca-9fb8-4093a846ae1f)
 
 <h2> What's Lacking </h2>
-
+<ul>
+  <li> 
+    Laugh-O-Meter
+    <ul>
+      <li> Make the king stop moving, laugh hard and take more damage for a few seconds </li>
+      <li> Animate the Jester for taking damage, increase the Laugh-O-Meter in the process</li>
+    </ul>
+  </li>
+  <li> Make it prettier </li>
+</ul>
 
 <h2> Final Considerations </h2>
 <ul>
