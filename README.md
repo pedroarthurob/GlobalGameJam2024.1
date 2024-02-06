@@ -39,6 +39,7 @@
   I could only implement the most basic things, such as the King and Jester movements, the health bar, the randomness of the objects. I couldn't implement the Laugh-O-Meter and everything related to him, only his visual.
   
 ![](https://github.com/pedroarthurob/GlobalGameJam2024.1/blob/main/Vídeo%20sem%20título%20‐%20Feito%20com%20o%20Clipchamp.gif)
+<img src="https://github.com/pedroarthurob/GlobalGameJam2024.1/blob/main/Vídeo%20sem%20título%20‐%20Feito%20com%20o%20Clipchamp.gif" width="250" height="250"/>
 
 <h2> What's Lacking </h2>
 <ul>
