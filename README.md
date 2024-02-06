@@ -37,7 +37,8 @@
 </p>
 <h2> Game Result </h2>
   I could only implement the most basic things, such as the King and Jester movements, the health bar, the randomness of the objects. I couldn't implement the Laugh-O-Meter and everything related to him, only his visual.
-![Make Me Laugh](https://github.com/pedroarthurob/GlobalGameJam2024.1/blob/main/Vídeo%20sem%20título%20‐%20Feito%20com%20o%20Clipchamp.gif)
+  
+![](https://github.com/pedroarthurob/GlobalGameJam2024.1/blob/main/Vídeo%20sem%20título%20‐%20Feito%20com%20o%20Clipchamp.gif)
 
 <h2> What's Lacking </h2>
 <ul>
